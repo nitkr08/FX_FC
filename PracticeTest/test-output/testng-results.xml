@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29924" started-at="2018-02-22T18:23:45Z" finished-at="2018-02-22T18:24:15Z">
+  <suite name="Default suite" duration-ms="44137" started-at="2018-06-03T17:28:04Z" finished-at="2018-06-03T17:28:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29924" started-at="2018-02-22T18:23:45Z" finished-at="2018-02-22T18:24:15Z">
-      <class name="PracticeJava.rough">
-        <test-method status="PASS" signature="test()[pri:0, instance:PracticeJava.rough@55f3ddb1]" name="test" duration-ms="29892" started-at="2018-02-22T23:53:45Z" finished-at="2018-02-22T23:54:15Z">
+    <test name="Default test" duration-ms="44137" started-at="2018-06-03T17:28:04Z" finished-at="2018-06-03T17:28:48Z">
+      <class name="PracticeJava.MultipleWindow">
+        <test-method status="PASS" signature="test()[pri:0, instance:PracticeJava.MultipleWindow@55f3ddb1]" name="test" duration-ms="44100" started-at="2018-06-03T22:58:04Z" finished-at="2018-06-03T22:58:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- PracticeJava.rough -->
+      </class> <!-- PracticeJava.MultipleWindow -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
