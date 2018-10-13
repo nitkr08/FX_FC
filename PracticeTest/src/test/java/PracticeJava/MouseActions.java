@@ -33,6 +33,7 @@ public class MouseActions {
 	public void AlertHandle(){
 	Alert Al=driver.switchTo().alert();
 	Al.accept();
+	
 //	Al.dismiss();
 //	Al.sendKeys("test");
 	}
