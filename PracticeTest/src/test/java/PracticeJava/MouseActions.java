@@ -27,7 +27,7 @@ public class MouseActions {
 		use_mouse.doubleClick().perform();
 	}
 	
-	//Handling of Alert-Accept,Dismiss and SendKeys
+	//Handling of Alert-Accept(),Dismiss() and SendKeys()
 	@Test
 	public void AlertHandle(){
 	Alert Al=driver.switchTo().alert();
