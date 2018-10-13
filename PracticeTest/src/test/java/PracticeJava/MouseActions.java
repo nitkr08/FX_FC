@@ -28,6 +28,7 @@ public class MouseActions {
 	}
 	
 	//Handling of Alert-Accept(),Dismiss() and SendKeys()
+	
 	@Test
 	public void AlertHandle(){
 	Alert Al=driver.switchTo().alert();
