@@ -41,6 +41,7 @@ public class StringPratice {
 	  }
 	}
 	@Test
+	//Using HashMap
 	public  void StringDemo2(){
 		String name="Nitish";
 		char[] name1=name.toCharArray();
