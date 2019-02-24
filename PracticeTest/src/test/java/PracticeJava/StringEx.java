@@ -6,7 +6,6 @@ public class StringEx {
 		String rev=" ";
 		for(int i=name1.length()-1;i>=0;i--){
 			rev=rev+name1.charAt(i);
-			
 		}
 		System.out.println(rev);
 	}
@@ -21,6 +20,5 @@ public class StringEx {
 		str.Reverse(nam);
 		//System.out.println(nam);
 	}	
-	
 	}
 }
